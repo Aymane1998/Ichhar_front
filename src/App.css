@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+.css-17dc4z3-MuiResponsiveChart-container{
+  width: 100% !important;
+  height: 100% !important;
+}
+.MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+    outline: none !important;
+}
+
+*{
+  font-family: "Nunito", sans-serif !important;
+}
